@@ -4,6 +4,5 @@ From Modern React with Redux. Thanks to Stephen Grider.
 
 Five day forecast for multiple cities, with geolocation.
 
-
 Deployed on Heroku: https://weather-react-sparklines.herokuapp.com/
 

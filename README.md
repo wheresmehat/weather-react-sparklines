@@ -1,6 +1,6 @@
 React Weather App with some react-sparklines magic sprinkled over.
 
-From Modern React with Redux.
+From Modern React with Redux course.
 
 Five day forecast for multiple cities, with geolocation.
 
